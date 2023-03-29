@@ -1,4 +1,4 @@
-# Open Source Guides
+# Open Source Guides. Andrés Miranda ouner 
 
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
